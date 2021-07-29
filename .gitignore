@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/todo-API/node_modules
 /.pnp
 .pnp.js
 
