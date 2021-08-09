@@ -1,4 +1,4 @@
-<h1>ToDo Challenge for BLACKSTONE<h1>
+<h1>ToDo Challenge<h1>
 
 Funciones de la aplicación:
 - Crear una cuenta
