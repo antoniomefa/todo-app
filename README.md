@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<h1>ToDo Challenge<h1>
-=======
 <h1>ToDo App<h1>
->>>>>>> 6b45668 (Corrección del README.md)
 
 Funciones de la aplicación:
 - Crear una cuenta
