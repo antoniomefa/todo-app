@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1>ToDo Challenge<h1>
+=======
+<h1>ToDo App<h1>
+>>>>>>> 6b45668 (Corrección del README.md)
 
 Funciones de la aplicación:
 - Crear una cuenta
@@ -10,10 +14,10 @@ Funciones de la aplicación:
 
 ### `Instrucciones`
 
-Este repositorio contiene dos preoyectos: el backend en NodeJS y el frontend en ReactJS.
+Este repositorio contiene dos proyectos: el backend en NodeJS y el frontend en ReactJS.
 
 Pasos para ejecutar el frontend:
-- Clonar el repositorio con el comando "git clone https://gitlab.com/antoniomefa/todo-app.git"
+- Clonar el repositorio con el comando "git clone https://github.com/antoniomefa/todo-app.git"
 - Desde la terminal, ingresar al directorio del proyecto "todo-app"
 - Ejecutar el comando "npm i" para instalar las dependecias
 - Ejecutar el comando "npm run start" para correr el proyecto en http://localhost:3000
